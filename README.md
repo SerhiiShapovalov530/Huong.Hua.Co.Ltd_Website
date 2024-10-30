@@ -105,7 +105,7 @@ Huong Hua Co. Ltd. is dedicated to delivering top-quality bathroom solutions, ra
 - AWS EC2, RDS, DocumentDB, S3, Gateway, CloudFront, and Route 53: For deployment, hosting, and cloud services.
 - Prettier: For code formatting and consistency.
 
-## Live Deployment
+## Deployment
 
 The website is live at [Huong Hua Co. Ltd.](https://www.huonghuacoltd.com/). It is hosted on AWS EC2 and uses various cloud services for deployment and hosting, specifically:
 
@@ -117,6 +117,10 @@ The website is live at [Huong Hua Co. Ltd.](https://www.huonghuacoltd.com/). It 
 - Amazon EC2: For hosting the website and backend services.
 - Amazon CloudFront: For content delivery and caching.
 - Docker: For containerization and deployment.
+
+## 🌐 Visit Website
+
+Experience it in action! Check out the <a href="https://www.huonghuacoltd.com/" target="_blank">Visit Website</a>.
 
 ## Setup and Installation
 
